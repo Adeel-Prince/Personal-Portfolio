@@ -1,16 +1,22 @@
 const experiences = [
   {
-    period: "2024 — Present",
-    role: "Frontend Engineer",
-    company: "Renala Khurd, Pakistan",
+    period: "Sep 2026 — Nov 2026",
+    role: "	Frontend Developer Intern",
+    company: "Appverse Technologies · Lahore, Pakistan · Remote",
     description:
-      "Led the frontend engineering lifecycle for high-performance fintech applications. Engineered micro-frontend architectures and optimized asset compilation pipelines to reduce production bundle sizes by 40%.",
-    technologies: ["React","JavaScript","TypeScript", "Database"],
+      "Completed 12 assignments across 6 frontend projects and 6 technical reports. Developed ClearPay, a responsive multi-page website, and Taskboard, a JavaScript task management application featuring CRUD operations, drag-and-drop, search, undo/redo, and localStorage persistence. Implemented automated testing, including 26 unit tests and 60 browser tests.",
+    technologies: [ "HTML5",
+      "CSS3",
+      "JavaScript",
+      "ES6+",
+      "Responsive Design",
+      "Git & GitHub",
+      "Automated Testing",],
     current: true,
   },
   {
     period: "2024 — 2026",
-    role: "Frontend Developer",
+    role: "Frontend Engineer",
     company: "Renala Khurd, Pakistan",
     description:
       "Built and maintained multiple React applications for enterprise clients. Introduced automated testing practices that improved code coverage to 85%.",

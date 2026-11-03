@@ -10,7 +10,8 @@ import {
 import { AnimatedBorderButton } from "../components/AnimatedBorderButton";
 
 const skills = [
-  "React",
+  "React.js",
+  "Next.js",
   "JavaScript",
   "TypeScript",
   "Node.js",
@@ -20,7 +21,6 @@ const skills = [
   "Drizzle",
   "PostgreSQL",
   "MongoDB",
-  "Vercel",
   "Tailwind CSS",
   "Authentication",
   "Git",
